@@ -513,5 +513,5 @@ int main(int argc, char **argv)
 ### Integer Datatype
 ![](ex2(i).png)
 ## RESULT:
-<h5>Integer:<\h5>The host took 1.432791 seconds to complete it’s computation, while the GPU outperforms the host and completes the computation in 0.075308 seconds.
+<h5>Integer:</h5>The host took 1.432791 seconds to complete it’s computation, while the GPU outperforms the host and completes the computation in 0.075308 seconds.
 <h5>Float:</h5>The host took 0.874748 seconds to complete it’s computation, while the GPU outperforms the host and completes the computation in 0.013715 seconds. Therefore, float variables in the GPU will result in the best possible result. Thus, matrix summation using 2D grids and 2D blocks has been performed successfully.
